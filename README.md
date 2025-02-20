@@ -27,9 +27,9 @@ I’m a **recent MSc Artificial Intelligence graduate (Distinction) from the Uni
 🔗 **LinkedIn:** [linkedin.com/in/saksham-rai](https://www.linkedin.com/in/saksham-rai)  
 💻 **GitHub:** [github.com/Saksham-Rai](https://github.com/Saksham-Rai)  
 
-## 📊 GitHub Stats  
+<!--## 📊 GitHub Stats  
 ![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Rai&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Rai&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saksham-Rai&layout=compact&theme=tokyonight)  -->
 
 🚀 **Let’s build something amazing together!**  
 
