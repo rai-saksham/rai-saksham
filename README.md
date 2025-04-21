@@ -25,7 +25,7 @@ I’m a **recent MSc Artificial Intelligence graduate (Distinction) from the Uni
 ## 📫 Connect With Me  
 📧 **Email:** rsaksham118@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/saksham-rai](https://www.linkedin.com/in/saksham-rai)  
-💻 **GitHub:** [github.com/Saksham-Rai](https://github.com/Saksham-Rai)  
+💻 **GitHub:** [github.com/Saksham-Rai](https://github.com/rai-saksham)  
 
 <!--## 📊 GitHub Stats  
 ![Saksham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saksham-Rai&show_icons=true&theme=tokyonight)  
